@@ -1,4 +1,4 @@
-Library Management System
+<H1>Library Management System</H1>
 <br>
 This is a simple Library Management System built using Angular. It allows users to:
 <br>
