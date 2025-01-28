@@ -1,13 +1,14 @@
 Library Management System
+<br>
 This is a simple Library Management System built using Angular. It allows users to:
-
-View a list of books.
-Search for books by title or author.
-Add new books to the collection.
-Edit or update existing books.
-Delete books from the list.
-The system uses a JSON Server backend to manage the books.
-
+<br>
+<br>View a list of books.
+<br>Search for books by title or author.
+<br>Add new books to the collection.
+<br>Edit or update existing books.
+<br>Delete books from the list.
+<br>The system uses a JSON Server backend to manage the books.
+<br>
 Features
 Home Page (Book List)
 
