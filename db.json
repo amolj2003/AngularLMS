@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 7,
+      "title": "Harry Potter",
+      "author": "JK rollins ",
+      "isbn": "jnedkjn6546",
+      "available": true
+    },
+    {
+      "id": 8,
+      "title": "HUKUNAMA TAKA",
+      "author": "amol jaiswal",
+      "isbn": "jbjb57876",
+      "available": true
+    },
+    {
+      "id": 9,
+      "title": "WEST SIDE",
+      "author": "Tornado",
+      "isbn": "8787",
+      "available": true
+    }
+  ]
+}
